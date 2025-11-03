@@ -10,14 +10,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a **HTML + TailwindCSS + JavaScript + React JS** project  
+- 🔭 I’m currently working on **HTML + TailwindCSS + JavaScript + React JS** project  
 - 🌱 Learning **Next JS**, **TypeScript**, and advanced UI And Logical Web Building  
-- 💬 Ask me about **responsive layouts**, **component structure**, or **UI polish**  
-- 🌐 Portfolio: [shohan.dev](https://shohan.dev)  
-- 📫 Email: [shohanshawon551@gmail.com](mailto:shohanshawon551@gmail.com)  
-- 📁 My works: [Google Drive Showcase](https://drive.google.com/...)  
+- 💬 Ask me about **Building responsive UIs**, **Scalable React component architecture**, or **Polished, user-friendly interfaces**.  
+- 🎯 Goals: Grow as a developer, contribute to open-source, and build products that matter
+- 📫 Email: [shohanshawon551@gmail.com](mailto:shohanshawon551@gmail.com)
+- 🤝 Open to freelance projects, team collaborations, and mentorship opportunities
 - 💡 Fun fact: I debug with tea and design with dreams ☕🎨
-- I turn design mockups into interactive websites with clean code and attention to detail.
+-I make designs come alive on the web with well-structured code and careful attention to every detail.
 
 ---
 
