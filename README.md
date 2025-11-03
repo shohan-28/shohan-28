@@ -3,9 +3,9 @@
   <img src="https://i.postimg.cc/bwq7bsJg/github-cover.jpg" alt="Shohan Banner" max-width: 100% />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shohan Shawon</h1>
-<h3 align="center">Creative Frontend Developer from Bangladesh 🇧🇩</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shohan+Shawon;Creative+Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%BD" alt="Typing SVG" />
+</h1>
 ---
 
 ### 🧑‍💻 About Me
