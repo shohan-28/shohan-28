@@ -50,7 +50,6 @@
 <p align="center">
   <a href="https://www.facebook.com/share/19uViNY8xV/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shohan-shawon-661ab2353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
   <a href="https://www.instagram.com/the_shohan7?igsh=MTNmd3loZml2OW01MA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   
 </p>
