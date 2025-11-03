@@ -58,13 +58,17 @@
 ---
 
 <!-- 🧠 Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-dev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-28&layout=compact&theme=radical)
+
+---
 
 <!-- 📊 GitHub Stats -->
-![Shohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan-dev&show_icons=true&theme=radical)
+![Shohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan-28&show_icons=true&theme=radical)
+
+---
 
 <!-- 🔥 Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shohan-dev&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shohan-28&theme=radical)
 
 ---
 
