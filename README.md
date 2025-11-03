@@ -77,4 +77,4 @@
 
 ---
 
-Feel free to customize the links, banner, and illustration URLs. If you want help designing a banner or illustration that matches your vibe, I can help with that too. Want a dark mode version next? 😎
+✨ Check out the banner and illustrations! Customize them to match your style.
