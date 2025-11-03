@@ -57,7 +57,14 @@
 
 ---
 
+<!-- 🧠 Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-dev&layout=compact&theme=radical)
 
+<!-- 📊 GitHub Stats -->
+![Shohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan-dev&show_icons=true&theme=radical)
+
+<!-- 🔥 Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shohan-dev&theme=radical)
 
 ---
 
