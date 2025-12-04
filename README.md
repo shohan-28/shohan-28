@@ -62,11 +62,10 @@
 
 <!-- 📊 GitHub Stats -->
 ![Shohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohan-28&show_icons=true&theme=default)
-
 ---
 
 <!-- 🔥 Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shohan-28&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shohan-28&theme=default)
 
 ---
 
